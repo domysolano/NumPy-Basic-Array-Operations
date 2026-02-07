@@ -8,13 +8,13 @@ Original file is located at
 
 **Maestría en Inteligencia Artificial y Analítica de Datos**
 
-Curso: *Programación para Analítica Descriptiva y Predictiva*
+Curso: *Programación para Analítica Descriptiva y Predictiva*.
 
-* Semestre: Enero-Junio 2026
-* Profesor: Dr. Vicente García Jiménez
-* Alumno: Ricardo Solano Monje
-* Matrícula: 266221
-* Unidad 1
+* Semestre: Enero-Junio 2026.
+* Profesor: Dr. Vicente García Jiménez.
+* Alumno: Ricardo Solano Monje.
+* Matrícula: 266221.
+* Unidad 1.
 * Práctica 3: Creación de un arreglo y operaciones básicas.
 * Objetivo de la práctica: Usar NumPy para crear arreglos y realizar algunas operaciones básicas.
 * Realizado por: Ricardo Solano Monje.
